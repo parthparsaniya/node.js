@@ -4,8 +4,8 @@ const awsaccessKeyId = "knbhsr"
 let awssecretAccessKey = "kjbfgisur"
 var awsregion = "kjfhsjr"
 console.log("hello node.js")
-const app_secret = "app_secret"
-const appSecret = "appSecret"
+const app_secretee = "app_secretee"
+const appSecrete = "appSecretee"
 
-console.log(app_secret)
-console.log(appSecret)
+console.log(app_secretee)
+console.log(appSecrete)
